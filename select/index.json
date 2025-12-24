@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "EOL",
+  "base_artist": "ファム・ファタル",
+  "createdAt": "2025-12-24T13:04:52.052330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Eol",
+      "artist": "Islands",
+      "has_synced": false,
+      "path": "select/01_Eol_Islands.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mi Gente - Louie Vega Eol Remix",
+      "artist": "Héctor Lavoe",
+      "has_synced": false,
+      "path": "select/02_Mi_Gente_-_Louie_Vega_Eol_Remix_Héctor_Lavoe.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mi Gente (Louie Vega EOL Remix)",
+      "artist": "Hector Lavoe",
+      "has_synced": false,
+      "path": "select/03_Mi_Gente_(Louie_Vega_EOL_Remix)_Hector_Lavoe.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Eol-Eo-Boo-Toon- Shim-Jang",
+      "artist": "Chul-Han Kim",
+      "has_synced": true,
+      "path": "select/04_Eol-Eo-Boo-Toon-_Shim-Jang_Chul-Han_Kim.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Superfly (Little Louie Vega EOL mix)",
+      "artist": "Curtis Mayfield",
+      "has_synced": false,
+      "path": "select/05_Superfly_(Little_Louie_Vega_EOL_mix)_Curtis_Mayfield.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Like A Sunshine, My Memory (EOL Mix Edit Version)",
+      "artist": "Pushim",
+      "has_synced": false,
+      "path": "select/06_Like_A_Sunshine,_My_Memory_(EOL_Mix_Edit_Version)_Pushim.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Telephone - Louie Vega EOL Mix",
+      "artist": "Erykah Badu",
+      "has_synced": false,
+      "path": "select/07_Telephone_-_Louie_Vega_EOL_Mix_Erykah_Badu.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Superfly (Louie Vega EOL Mix)",
+      "artist": "Curtis Mayfield",
+      "has_synced": false,
+      "path": "select/08_Superfly_(Louie_Vega_EOL_Mix)_Curtis_Mayfield.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Figli Delle Stelle  (Louie Vega EOL Radio Edit Mix)",
+      "artist": "Alan Sorrenti",
+      "has_synced": false,
+      "path": "select/09_Figli_Delle_Stelle_(Louie_Vega_EOL_Radio_Edit_Mix)_Alan_Sorrenti.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mi Gente (Louie Vega EOL Remix / Radio Edit)",
+      "artist": "Hector Lavoe",
+      "has_synced": true,
+      "path": "select/10_Mi_Gente_(Louie_Vega_EOL_Remix___Radio_Edit)_Hector_Lavoe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EOL",
+      "artist": "ファム・ファタル",
+      "has_synced": false,
+      "path": "select/pl_01_EOL_ファム・ファタル.txt"
+    }
+  ]
+}
